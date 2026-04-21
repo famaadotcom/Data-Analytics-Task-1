@@ -1,4 +1,4 @@
-# Data-Analytics-Task-1
+# Data-Analytics-Tasks
         Exploring and Visualizing a Simple Dataset
 Project Title: Iris Dataset Exploration and Visualization
 **1. Objective**
