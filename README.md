@@ -1,5 +1,5 @@
-# Data-Analytics-Task-1**
-        **Exploring and Visualizing a Simple Dataset**
+# Data-Analytics-Task-1
+        Exploring and Visualizing a Simple Dataset
 Project Title: Iris Dataset Exploration and Visualization
 **1. Objective**
 The primary objective of this task is to perform basic Exploratory Data Analysis (EDA) on the classic Iris dataset. The goal is to:
